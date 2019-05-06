@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #fce29e;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: red;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #463408;
 }
 
 .navbar-collapse {
